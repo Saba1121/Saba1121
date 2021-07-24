@@ -4,6 +4,8 @@
 
 <div>
 
+  <img width="8%" >
+  
   <img src="./images/nodejs.svg" width="11%" title="NodeJs" >
 
   <img width="8%" >
@@ -28,18 +30,20 @@
 <img height="50px" >
  
 <div>
+  
+  <img width="8%" >
 
   <img src="./images/mongodb.svg" width="11%" title="MongoDB" >
 
-  <img width="10%" >
+  <img width="8%" >
   
   <img src="./images/mysql.svg" width="11%" title="MySQL" >
    
-  <img width="10%" >
+  <img width="8%" >
   
   <img src="./images/git.svg" width="11%" title="Git" >
   
-  <img width="10%" >
+  <img width="8%" >
   
   <img src="./images/redux.svg" width="11%" title="Redux" vertical-align="">
 
