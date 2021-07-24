@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Saba1121/Saba1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div>
+  
+  <img src="./images/javascript.svg" margin="10px" width="60px">
+ 
+  <img width="30px" >
+  
+  <img src="./images/nodejs.svg" width="60px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img width="30px" >
+  
+  <img src="./images/react.svg" width="60px">
+
+  <img width="30px" >
+  
+  <img src="./images/mongodb.svg" width="60px">
+
+  <img width="30px" >
+  
+  <img src="./images/mysql.svg" width="60px">
+
+</div>
