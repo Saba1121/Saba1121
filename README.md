@@ -4,7 +4,7 @@
 
 <div>
 
-  <img width="8%" >
+  <img width="5%" >
   
   <img src="./images/nodejs.svg" width="11%" title="NodeJs" >
 
@@ -24,6 +24,7 @@
    
   <img src="./images/firebase.svg" width="11%" title="Firebase" >
 
+  <img width="5%" >
   
 </div>
  
@@ -31,7 +32,7 @@
  
 <div>
   
-  <img width="8%" >
+  <img width="5%" >
 
   <img src="./images/mongodb.svg" width="11%" title="MongoDB" >
 
@@ -47,6 +48,8 @@
   
   <img src="./images/redux.svg" width="11%" title="Redux" vertical-align="">
 
+  <img width="5%" >
+  
 </div>
 
 <br>
