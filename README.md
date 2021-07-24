@@ -6,19 +6,19 @@
 
   <img src="./images/nodejs.svg" width="11%" title="NodeJs" >
 
-  <img width="10%" >
+  <img width="8%" >
   
   <img src="./images/react.svg" width="11%" title="React" >
 
-  <img width="10%" >
+  <img width="8%" >
   
   <img src="./images/typescript.svg" width="11%" title="Typescript">
   
-  <img width="10%" >
+  <img width="8%" >
   
   <img src="./images/javascript.svg" width="11%" title="Javascript" >
   
-  <img width="10%" > 
+  <img width="8%" > 
    
   <img src="./images/firebase.svg" width="11%" title="Firebase" >
 
